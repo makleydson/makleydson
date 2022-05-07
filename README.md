@@ -1,4 +1,4 @@
-### Faaala, galera! Eu sou Makleydson Henrique 🙋‍♂️
+### Faaala, galera! Eu sou Makleydson Henrique 👋🏻
 </br>
 
 ## Tecnologias ando estudando:
