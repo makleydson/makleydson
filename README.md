@@ -1,7 +1,6 @@
 ### Faaala, galera! Eu sou Makleydson Henrique 👋🏻
 </br>
 Estudante de Análise e Desenvolvimento de Sistemas desde Setembro de 2021.
-<\br>
 
 ## Tecnologias ando estudando:
 
